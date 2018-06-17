@@ -19,26 +19,6 @@ import static org.junit.Assert.*;
  * @author BanNsS1
  */
 public class FigureAreaVisitorTest {
-    
-    public FigureAreaVisitorTest() {
-    }
-    
-    @BeforeClass
-    public static void setUpClass() {
-    }
-    
-    @AfterClass
-    public static void tearDownClass() {
-    }
-    
-    @Before
-    public void setUp() {
-    }
-    
-    @After
-    public void tearDown() {
-    }
-
     /**
      * Test of getArea method, of class FigureAreaVisitor.
      */
