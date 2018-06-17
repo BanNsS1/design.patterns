@@ -21,6 +21,7 @@ public class FigurePerimeterVisitor implements FigureVisitor{
     }
     
     public double getPerimeter(Figure figure){
+        this.result = 0;
         figure.accept(this);
         return result;
     }
